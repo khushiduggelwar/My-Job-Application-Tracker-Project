@@ -1,4 +1,4 @@
-# My-Job-Application-Tracker-Project
+# My Job Application Tracker Project
 ## Project Overview 
 Job searching is a long, repetitive process, and most applicants track it informally in a spreadsheet without ever analyzing it. This project turns my own real job search - 225+ applications tracked since December 2025 - into a full data analytics project covering companies, roles, locations, referrals, and response outcomes.
 
