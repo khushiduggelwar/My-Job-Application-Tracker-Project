@@ -47,8 +47,28 @@ The dashboard isn't static — it can be updated with the latest applications an
 
 ### 1. Overview
 
-![Overview](.png)
+![Overview](Overview.png)
 
-### 2. Executive Overview
+### 2. Deep Dive Analysis
 
-![Executive_Overview](.png)
+![Deep_Dive_Analysis](Deep_Dive_Analysis.png)
+
+##Project Structure 
+Job-Application-Tracker-Analysis/ 
+├── data/ 
+│   └── Job Search Sheet.xlsx 
+├── python/ 
+│   └── load_jobs.py 
+├── sql/ 
+│   └── business_questions.sql 
+├── dashboard/ 
+│   └── My_job_application_tracker.pbix 
+└── README.md
+
+---
+
+## Author
+**Khushi Duggelwar**  
+📧 khushivrao61@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/khushiduggelwar)  
+💻 [GitHub](https://github.com/khushiduggelwar)
